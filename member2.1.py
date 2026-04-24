@@ -1,4 +1,4 @@
-2.1# import menu from member1
+# import menu from member1
 from member1 import menu_catalog
 
 class Item:
