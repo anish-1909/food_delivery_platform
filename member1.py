@@ -1,4 +1,4 @@
-raw_menu = "pizza:250 burger:180 pasta:220 pizza:250 sushi:400 burger:180"
+raw_menu = "pizza:250 burger:180 pasta:220 pizza:250 sushi:400 burger:180 salad:120"
 menu_catalog = {}
 for item in raw_menu.split():
     name, price = item.split(':')
